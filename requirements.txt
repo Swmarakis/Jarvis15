@@ -1,0 +1,4 @@
+speechrecognition==3.10.0
+edge-tts==6.1.9
+requests==2.31.0
+apscheduler==3.10.4
